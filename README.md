@@ -1,6 +1,12 @@
-# mytask
+# mytask project flutter with provider state manager.
 
-A new Flutter project.
+develop a to-do list application that allows the user to create and manage tasks. The application has the following features:
+- Add and view tasks
+- Delete a task
+- Complete a task
+- Set a priority for my tasks
+- View the tasks sorted by priority and name
+- View the number of total and completed tasks
 
 ## Getting Started
 
